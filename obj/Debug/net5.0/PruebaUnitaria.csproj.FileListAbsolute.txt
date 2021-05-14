@@ -1,0 +1,16 @@
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.exe
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.deps.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.runtimeconfig.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.runtimeconfig.dev.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\ref\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\net5.0\PruebaUnitaria.pdb
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.csprojAssemblyReference.cache
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.AssemblyInfo.cs
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\ref\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.pdb
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\net5.0\PruebaUnitaria.genruntimeconfig.cache

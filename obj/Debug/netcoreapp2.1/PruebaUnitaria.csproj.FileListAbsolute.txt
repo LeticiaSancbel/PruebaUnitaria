@@ -1,0 +1,15 @@
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.csprojAssemblyReference.cache
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.AssemblyInfo.cs
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\PruebaUnitaria.deps.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\PruebaUnitaria.runtimeconfig.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\PruebaUnitaria.runtimeconfig.dev.json
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\bin\Debug\netcoreapp2.1\PruebaUnitaria.pdb
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.dll
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.pdb
+C:\Users\letic\Desktop\PruebaUnitaria\obj\Debug\netcoreapp2.1\PruebaUnitaria.genruntimeconfig.cache
